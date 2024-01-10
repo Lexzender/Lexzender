@@ -36,7 +36,7 @@
   <code><img width="5%" title="Python" src="images/python-original.svg"></code>
   <code><img width="5%" title="Pytest" src="images/pytest-original.svg"></code>
   <code><img width="5%" title="Selene" src="images/selene.png"></code>
-  <code><img width="5%" title="Selenium" src="images/selenium-original.svg"></code>
+  <code><img width="5%" title="Selenium" src="images/selenium (1).png"></code>
   <code><img width="5%" title="Requests" src="images/Requests_Python_Logo.png"></code>
   <code><img width="5%" title="GitHub" src="images/github-original.svg"></code>
   <code><img width="5%" title="Jenkins" src="images/jenkins-original.svg"></code>
