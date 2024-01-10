@@ -45,17 +45,17 @@
   <code><img width="5%" title="Allure TestOps" src="images/AllureTestOps.png"></code>
   <code><img width="5%" title="Appium" src="images/appium.png"></code>
   <code><img width="5%" title="Browserstack" src="images/browserstack.png"></code>
-  <code><img width="5%" title="Jira" src="images/jira.png"></code>
+  <code><img width="5%" title="Jira" src="images/jira-original.svg"></code>
 </p>
 
 <!--Projects-->
 
 ## :floppy_disk: Проекты для ознакомления
-### <img width="3%" src="images/github.png"> [Проект с UI тестами](https://github.com/catislove/qa_guru_graduation_project_UI)
+### <img width="3%" src="images/gitlab-original.svg"> [Проект с UI тестами](https://github.com/Lexzender/luma_UI_test_framework)
 
-### <img width="3%" src="images/github.png"> [Проект с API тестами](https://github.com/catislove/qa_guru_graduation_project_API)
+### <img width="3%" src="images/gitlab-original.svg"> [Проект с API тестами](https://github.com/Lexzender/vikunja_api_test_framework)
 
-### <img width="3%" src="images/github.png"> [Проект с Mobile тестами](https://github.com/catislove/qa_guru_graduation_project_mobile)
+### <img width="3%" src="images/gitlab-original.svg"> [Проект с Mobile тестами](https://github.com/Lexzender/wiki_mobile_test_framework)
 
 ## Cтатистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lexzender&theme=tokyonight)
