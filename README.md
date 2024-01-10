@@ -51,11 +51,11 @@
 <!--Projects-->
 
 ## :floppy_disk: Проекты для ознакомления
-### <img width="3%" src="images/gitlab-original.svg"> [Проект с UI тестами](https://github.com/Lexzender/luma_UI_test_framework)
+### <img width="3%" src="images/github-original.svg"> [Проект с UI тестами](https://github.com/Lexzender/luma_UI_test_framework)
 
-### <img width="3%" src="images/gitlab-original.svg"> [Проект с API тестами](https://github.com/Lexzender/vikunja_api_test_framework)
+### <img width="3%" src="images/github-original.svg"> [Проект с API тестами](https://github.com/Lexzender/vikunja_api_test_framework)
 
-### <img width="3%" src="images/gitlab-original.svg"> [Проект с Mobile тестами](https://github.com/Lexzender/wiki_mobile_test_framework)
+### <img width="3%" src="images/github-original.svg"> [Проект с Mobile тестами](https://github.com/Lexzender/wiki_mobile_test_framework)
 
 ## Cтатистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lexzender&theme=tokyonight)
