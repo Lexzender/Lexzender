@@ -22,6 +22,7 @@
     <tr><td width="10%" valign="bottom"><img  src="/images/stepik_logo.png"></td><td valign="middle">Stepik</br>"Поколение Python": курс для начинающих <a target="_blank" href="https://stepik.org/cert/1733231">Сертификат</a>.</td></tr>
     <tr><td width="10%" valign="bottom"><img  src="/images/stepik_logo.png"></td><td valign="middle">Stepik</br>"Поколение Python": курс для профессионалов <a target="_blank" href="https://stepik.org/cert/2281078">Сертификат</a>.</td></tr>
     <tr><td width="10%" valign="bottom"><img  src="/images/stepik_logo.png"></td><td valign="middle">Stepik</br>"WEB Парсинг на Python <a target="_blank" href="https://stepik.org/cert/2105632">Сертификат</a>.</td></tr>
+    <tr><td width="10%" valign="bottom"><img  src="/images/stepik_logo.png"></td><td valign="middle">Stepik</br>"Поколение Python": базы данных и SQL для начинающих <a target="_blank" href=https://stepik.org/cert/2355502">Сертификат</a>.</td></tr>
     <tr><td width="10%" valign="bottom"><img  src="/images/qa_guru_logo.svg"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
